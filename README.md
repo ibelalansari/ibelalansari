@@ -1,9 +1,8 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ibelalansari&label=Profile%20Views&color=0e75b6&style=flat)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ibelalansari&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=ibelalansari&label=Profile%20Views&color=0e75b6&style=flat)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
