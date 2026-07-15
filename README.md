@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ibelalansari&color=blue)
-![Belal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibelalansari&show_icons=true&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibelalansari&show_icons=true&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibelalansari&theme=github-dark)
 
