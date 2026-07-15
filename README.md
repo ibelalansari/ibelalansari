@@ -13,16 +13,6 @@
 
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ibelalansari&theme=github-dark)
-
-![](https://komarev.com/ghpvc/?username=ibelalansari&color=blue)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=flat-square)
-
 # Hi, I'm Belal Ansari
 
 I am passionate about Cybersecurity and continuously improving my practical skills through hands-on labs, Microsoft Learn, and real-world practice.
