@@ -1,3 +1,10 @@
+![](https://komarev.com/ghpvc/?username=ibelalansari&color=blue)
+![Belal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibelalansari&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ibelalansari&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibelalansari&layout=compact&theme=github_dark)
+
 # Hi, I'm Belal Ansari
 
 I am passionate about Cybersecurity and continuously improving my practical skills through hands-on labs, Microsoft Learn, and real-world practice.
