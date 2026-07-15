@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ibelalansari&color=blue)
-https://github-readme-stats.vercel.app/api?username=ibelalansari&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibelalansari&theme=github-dark)
-https://github-readme-stats.vercel.app/api/top-langs/?username=ibelalansari&layout=compact&theme=github_dark&hide_border=true
-
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
