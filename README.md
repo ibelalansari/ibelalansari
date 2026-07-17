@@ -12,96 +12,72 @@
 
 </div>
 
-# Hi, I'm Belal Ansari
+# Hi, I'm Belal Ansari 👋
 
-I am passionate about Cybersecurity and continuously improving my practical skills through hands-on labs, Microsoft Learn, and real-world practice.
+## Cybersecurity Portfolio
 
-My goal is to build a strong foundation in Security Operations (SOC), Microsoft Security technologies, and Ethical Hacking while documenting my learning journey on GitHub.
+Computer Science & Engineering graduate with an IT background since 2018.
 
----
-
-## Current Learning
+Currently building hands-on expertise in:
 
 - Security Operations Center (SOC)
-- Microsoft Security
-- Microsoft Azure
+- Network Security
+- Threat Detection
 - Microsoft Sentinel
 - Kusto Query Language (KQL)
-- Windows Security
-- Networking Fundamentals
-- Ethical Hacking
+- Splunk
+- Incident Response
+- Threat Hunting
+- Digital Forensics
+- Malware Analysis
 
 ---
 
-## Featured Repositories
+## Current Goal
 
-### SOC Learning Journey
-
-Practical SOC labs, Microsoft Learn modules, networking fundamentals, Windows security, KQL, and documentation.
-
-Repository:
-https://github.com/ibelalansari/SOC-Learning-Journey
+Build practical cybersecurity skills through documentation, labs, and real-world projects while preparing for professional Security Operations roles.
 
 ---
 
-### Ethical Hacking Learning Journey
+## Featured Repository
 
-A structured collection of notes, practical labs, commands, and documentation covering offensive security concepts and penetration testing.
+### Cybersecurity Portfolio
 
-Repository:
-https://github.com/ibelalansari/Ethical-Hacking-Learning-Journey
+A structured repository documenting my learning journey, labs, notes, and cybersecurity projects.
 
----
-
-### Web Development Journey
-
-My complete frontend development learning journey, including HTML, CSS, Tailwind CSS, Git, GitHub, and responsive web design projects completed during Programming Hero Batch 10.
-
-Repository:
-https://github.com/ibelalansari/Web-Development-Journey
-
----
-
-## Technical Skills
-
-### Cybersecurity
+Topics include:
 
 - Networking
-- Windows Security
-- Microsoft Security
-- Microsoft Azure
+- Windows
+- Linux
+- Web Security
+- Network Traffic Analysis
+- Ethical Hacking
+- Security Operations
 - Microsoft Sentinel
 - KQL
-- Git & GitHub
-
-### Web Development
-
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive Web Design
-- Flexbox
-- CSS Grid
-
-### Currently Learning
-
-- Ethical Hacking
-- Threat Detection
+- Splunk
+- Sigma
+- YARA
+- Threat Hunting
 - Incident Response
-- Linux
-- Active Directory
+- Digital Forensics
+- Malware Analysis
 
 ---
 
-## Learning Philosophy
+## Currently Learning
 
-I believe consistent hands-on practice is more valuable than simply consuming theory.
-
-Every lab, project, and README in my GitHub represents part of my continuous learning journey.
+- Microsoft Security
+- SOC Operations
+- Threat Detection
+- Detection Engineering
+- SIEM
+- KQL
 
 ---
 
-## Connect With Me
+## Connect
 
 GitHub:
 https://github.com/ibelalansari
