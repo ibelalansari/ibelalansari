@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ibelalansari&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
