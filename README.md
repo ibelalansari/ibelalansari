@@ -1,122 +1,126 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="Belal Ansari GitHub Banner" width="100%">
+  <img src="assets/github-banner.png" alt="Belal Ansari" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Belal Ansari</h1>
-
-<h3 align="center">
-Cybersecurity Professional • Security Operations (SOC) • Threat Detection
-</h3>
+<h1 align="center">Belal Ansari</h1>
 
 <p align="center">
-Building practical cybersecurity skills through hands-on labs, technical documentation, and real-world security projects.
+Cybersecurity Professional • Security Operations (SOC) • Ethical Hacking • Threat Detection
 </p>
 
 ---
 
-# 🚀 About Me
+## Professional Profile
 
-- 🎯 Currently focused on **Security Operations (SOC)**
-- 🔍 Learning **Threat Detection & Threat Hunting**
-- 🛡️ Building Blue Team skills
-- ☁️ Microsoft Security Ecosystem
-- 📊 Microsoft Sentinel
-- 🔎 Kusto Query Language (KQL)
-- 📈 Splunk
-- 💻 Windows & Linux Security
-- 🌐 Network Traffic Analysis
-- 🔬 Digital Forensics
-- 🦠 Malware Analysis
+Cybersecurity professional focused on Security Operations (SOC), Ethical Hacking, Threat Detection, Incident Response, and Microsoft Security technologies.
+
+This GitHub profile serves as a technical portfolio showcasing hands-on labs, structured documentation, security research, and practical cybersecurity projects. My objective is to build practical expertise through continuous learning, real-world simulations, and defensive security engineering.
 
 ---
 
-# 🛠️ Technology Stack
+## Areas of Expertise
 
-### Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Networking
-
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### Scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Security
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge)
-![KQL](https://img.shields.io/badge/KQL-512BD4?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-1E90FF?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-2E8B57?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 📚 Current Learning Roadmap
-
-- ✅ Networking Fundamentals
-- ✅ OSI & TCP/IP
-- ✅ Wireshark Basics
-- 🔄 Windows Security
-- 🔄 Linux Fundamentals
-- ⏳ Web Security
-- ⏳ Network Traffic Analysis
-- ⏳ Security Operations
-- ⏳ Microsoft Sentinel
-- ⏳ KQL
-- ⏳ Splunk
-- ⏳ Threat Hunting
-- ⏳ Incident Response
-- ⏳ Digital Forensics
-- ⏳ Malware Analysis
-
----
-
-# 📌 Featured Repository
-
-## 🔹 Cybersecurity Portfolio
-
-A structured cybersecurity portfolio documenting:
-
-- Hands-on Labs
-- Technical Notes
-- Documentation
-- Detection Engineering
-- Blue Team Skills
-- SOC Learning
-- Practical Projects
-
----
-
-# 🎯 Career Goal
-
-To become a professional Cybersecurity Analyst specializing in:
+### Security Operations
 
 - Security Operations Center (SOC)
 - Threat Detection
+- Threat Hunting
 - Incident Response
 - Detection Engineering
 
+### Offensive Security
+
+- Ethical Hacking
+- Web Security
+- Network Security
+- Vulnerability Assessment
+
+### Digital Forensics
+
+- Windows Forensics
+- Linux Forensics
+- Malware Analysis
+- Log Analysis
+
+### Microsoft Security
+
+- Microsoft Sentinel
+- Microsoft Defender
+- Kusto Query Language (KQL)
+
 ---
 
-# 📫 Connect
+## Technical Skills
 
-- 📧 **Email:** belalansari.bd@gmail.com
+| Category | Technologies |
+|----------|--------------|
+| Operating Systems | Windows • Linux |
+| Networking | TCP/IP • DNS • DHCP • HTTP/HTTPS • Wireshark |
+| Security Platforms | Microsoft Sentinel • Splunk |
+| Detection | Sigma • YARA |
+| Programming & Scripting | Python • Bash • PowerShell |
+| Version Control | Git • GitHub |
+| Development | Visual Studio Code |
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+## Featured Repository
+
+### Cybersecurity Portfolio
+
+Professional documentation of practical cybersecurity work, including:
+
+- Networking
+- Windows Security
+- Linux Administration
+- Web Security
+- Network Traffic Analysis
+- Security Operations
+- Ethical Hacking
+- Threat Detection
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+- Splunk
+- Sigma Rules
+- YARA Rules
+- Threat Hunting
+- Incident Response
+- Digital Forensics
+- Malware Analysis
+- Capstone Projects
+
+---
+
+## Current Professional Development
+
+Current areas of study include:
+
+- Security Operations Center (SOC)
+- Microsoft Security
+- Detection Engineering
+- Threat Hunting
+- Digital Forensics
+- Malware Analysis
+- Cloud Security
+
+---
+
+## Professional Philosophy
+
+> Learn deeply. Practice consistently. Document clearly. Defend effectively.
+
+---
+
+## Connect
+
+**LinkedIn**
+
+https://linkedin.com/in/ibelalansari
+
+**GitHub Portfolio**
+
+https://github.com/ibelalansari/cybersecurity-portfolio
+
+**Email**
+
+belalansari.bd@gmail.com
