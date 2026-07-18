@@ -2,6 +2,12 @@
   <img src="assets/github-banner.png" alt="Belal Ansari" width="100%">
 </p>
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibelalansari&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
 </p>
