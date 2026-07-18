@@ -20,15 +20,15 @@ jobs:
           user: ibelalansari
           filename: github-metrics.svg
 
+          # Theme
           template: classic
-
-          base: header, activity, community, repositories, metadata
-
           config_timezone: Asia/Dhaka
 
+          # Keep only the essentials
+          base: header, activity, community, metadata
+
+          # Calendar
           plugin_isocalendar: yes
 
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-
+          # Coding activity
           plugin_lines: yes
