@@ -124,10 +124,6 @@ Current areas of focus include:
 
 https://linkedin.com/in/ibelalansari
 
-**GitHub Portfolio**
-
-https://github.com/ibelalansari/cybersecurity-portfolio
-
 **Email**
 
 belalansari.bd@gmail.com
