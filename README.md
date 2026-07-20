@@ -77,17 +77,20 @@ My objective is to build practical expertise through continuous learning, real-w
 ### ⭐ Cybersecurity Portfolio
 
 Central portfolio showcasing cybersecurity projects, technical documentation, and professional learning.
-https://github.com/ibelalansari/cybersecurity-portfolio
+
+🔗 **Repository:** https://github.com/ibelalansari/cybersecurity-portfolio
 
 ### 🛡️ Ethical Hacking
 
 Hands-on offensive security documentation covering reconnaissance, authentication, web application security, penetration testing methodologies, and security tools.
- https://github.com/ibelalansari/ethical-hacking
+ 
+🔗 **Repository:** https://github.com/ibelalansari/ethical-hacking
 
 ### 🔵 SOC Analyst
 
 Security Operations Center portfolio covering networking, Windows security, log analysis, SIEM, Microsoft Sentinel, KQL, detection engineering, and incident response.
- https://github.com/ibelalansari/soc-analyst
+
+🔗 **Repository:** https://github.com/ibelalansari/soc-analyst
 
 ---
 
