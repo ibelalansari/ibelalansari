@@ -120,10 +120,8 @@ Current areas of focus include:
 
 ## Connect
 
-**LinkedIn**
-
+🔗 LinkedIn:
 https://linkedin.com/in/ibelalansari
 
-**Email**
-
+📧 Email:
 belalansari.bd@gmail.com
