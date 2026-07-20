@@ -9,7 +9,7 @@
 <h1 align="center">Belal Ansari</h1>
 
 <p align="center">
-Cybersecurity Professional • Security Operations (SOC) • Ethical Hacking • Threat Detection
+Cybersecurity Professional • Ethical Hacking • Security Operations (SOC) • Threat Detection
 </p>
 
 ---
