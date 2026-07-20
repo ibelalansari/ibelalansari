@@ -16,13 +16,24 @@ Cybersecurity Professional • Security Operations (SOC) • Ethical Hacking •
 
 ## Professional Profile
 
-Cybersecurity professional focused on Security Operations (SOC), Ethical Hacking, Threat Detection, Incident Response, and Microsoft Security technologies.
+Cybersecurity professional focused on Ethical Hacking, Security Operations (SOC), Threat Detection, Incident Response, and Microsoft Security technologies.
 
-This GitHub profile serves as a technical portfolio showcasing hands-on labs, structured documentation, security research, and practical cybersecurity projects. My objective is to build practical expertise through continuous learning, real-world simulations, and defensive security engineering.
+This GitHub profile serves as the central hub for my cybersecurity portfolio, showcasing hands-on laboratories, technical documentation, security research, and practical projects across offensive and defensive security.
+
+My objective is to build practical expertise through continuous learning, real-world simulations, and professional documentation aligned with industry best practices.
 
 ---
 
 ## Areas of Expertise
+
+### Offensive Security
+
+- Ethical Hacking
+- Web Application Security
+- Penetration Testing
+- Vulnerability Assessment
+- Reconnaissance
+- OSINT
 
 ### Security Operations
 
@@ -32,19 +43,12 @@ This GitHub profile serves as a technical portfolio showcasing hands-on labs, st
 - Incident Response
 - Detection Engineering
 
-### Offensive Security
-
-- Ethical Hacking
-- Web Security
-- Network Security
-- Vulnerability Assessment
-
 ### Digital Forensics
 
 - Windows Forensics
 - Linux Forensics
-- Malware Analysis
 - Log Analysis
+- Malware Analysis
 
 ### Microsoft Security
 
@@ -58,7 +62,7 @@ This GitHub profile serves as a technical portfolio showcasing hands-on labs, st
 
 | Category | Technologies |
 |----------|--------------|
-| Operating Systems | Windows • Linux |
+| Operating Systems | Windows • Linux • Kali Linux |
 | Networking | TCP/IP • DNS • DHCP • HTTP/HTTPS • Wireshark |
 | Security Platforms | Microsoft Sentinel • Splunk |
 | Detection | Sigma • YARA |
@@ -68,50 +72,43 @@ This GitHub profile serves as a technical portfolio showcasing hands-on labs, st
 
 ---
 
-## Featured Repository
+## Featured Repositories
 
-### Cybersecurity Portfolio
+### ⭐ Cybersecurity Portfolio
 
-Professional documentation of practical cybersecurity work, including:
+Central portfolio showcasing cybersecurity projects, technical documentation, and professional learning.
 
-- Networking
-- Windows Security
-- Linux Administration
-- Web Security
-- Network Traffic Analysis
-- Security Operations
-- Ethical Hacking
-- Threat Detection
-- Microsoft Sentinel
-- Kusto Query Language (KQL)
-- Splunk
-- Sigma Rules
-- YARA Rules
-- Threat Hunting
-- Incident Response
-- Digital Forensics
-- Malware Analysis
-- Capstone Projects
+### 🛡️ Ethical Hacking
+
+Hands-on offensive security documentation covering reconnaissance, authentication, web application security, penetration testing methodologies, and security tools.
+
+### 🔵 SOC Analyst
+
+Security Operations Center portfolio covering networking, Windows security, log analysis, SIEM, Microsoft Sentinel, KQL, detection engineering, and incident response.
 
 ---
 
 ## Current Professional Development
 
-Current areas of study include:
+Current areas of focus include:
 
-- Security Operations Center (SOC)
-- Microsoft Security
+- Ethical Hacking
+- Web Application Security
+- Security Operations (SOC)
 - Detection Engineering
 - Threat Hunting
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
 - Digital Forensics
 - Malware Analysis
 - Cloud Security
+- Python for Cybersecurity
 
 ---
 
 ## Professional Philosophy
 
-> Learn deeply. Practice consistently. Document clearly. Defend effectively.
+> Learn deeply. Practice consistently. Document clearly. Secure responsibly.
 
 ---
 
