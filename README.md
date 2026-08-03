@@ -9,119 +9,154 @@
 <h1 align="center">Belal Ansari</h1>
 
 <p align="center">
-Cybersecurity Professional • Ethical Hacking • Security Operations (SOC) • Threat Detection
+Web Application Security • Ethical Hacking • Security Operations (SOC) • Cybersecurity
 </p>
 
 ---
 
-## Professional Profile
+# Professional Profile
 
-Cybersecurity professional focused on Ethical Hacking, Security Operations (SOC), Threat Detection, Incident Response, and Microsoft Security technologies.
+Cybersecurity professional specializing in **Web Application Security, Ethical Hacking, and Security Operations (SOC)**.
 
-This GitHub profile serves as the central hub for my cybersecurity portfolio, showcasing hands-on laboratories, technical documentation, security research, and practical projects across offensive and defensive security.
+This GitHub profile serves as the central hub for my cybersecurity portfolio, showcasing hands-on laboratories, technical documentation, security assessments, and practical projects across offensive and defensive security.
 
-My objective is to build practical expertise through continuous learning, real-world simulations, and professional documentation aligned with industry best practices.
+My primary goal is to build practical, real-world cybersecurity expertise through continuous hands-on practice, professional documentation, and industry-standard methodologies.
 
 ---
 
-## Areas of Expertise
+# Areas of Expertise
 
-### Offensive Security
+## Offensive Security
 
-- Ethical Hacking
 - Web Application Security
+- Ethical Hacking
 - Penetration Testing
 - Vulnerability Assessment
+- OWASP Top 10
 - Reconnaissance
 - OSINT
 
-### Security Operations
+## Security Operations
 
 - Security Operations Center (SOC)
 - Threat Detection
-- Threat Hunting
 - Incident Response
-- Detection Engineering
+- Windows Event Logs
+- Network Traffic Analysis
 
-### Digital Forensics
+## Digital Forensics
 
 - Windows Forensics
 - Linux Forensics
 - Log Analysis
-- Malware Analysis
 
-### Microsoft Security
+## Programming & Scripting
 
-- Microsoft Sentinel
-- Microsoft Defender
-- Kusto Query Language (KQL)
+- Python
+- Bash
+- PowerShell
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
-| Operating Systems | Windows • Linux • Kali Linux |
-| Networking | TCP/IP • DNS • DHCP • HTTP/HTTPS • Wireshark |
-| Security Platforms | Microsoft Sentinel • Splunk |
-| Detection | Sigma • YARA |
-| Programming & Scripting | Python • Bash • PowerShell |
+| Operating Systems | Windows • Kali Linux • Linux |
+| Networking | TCP/IP • DNS • HTTP/HTTPS |
+| Web Security | Burp Suite Professional • OWASP Testing Methodology |
+| Security Tools | Nmap • SQLMap • Wireshark • FFUF • Gobuster |
+| Programming | Python • Bash • PowerShell |
 | Version Control | Git • GitHub |
 | Development | Visual Studio Code |
 
 ---
 
-## Featured Repositories
+# Featured Repositories
 
-### ⭐ Cybersecurity Portfolio
+## 🌐 Web Application Security
 
-Central portfolio showcasing cybersecurity projects, technical documentation, and professional learning.
+Hands-on Web Application Security portfolio featuring PortSwigger Web Security Academy labs, OWASP Top 10 testing methodology, vulnerability assessments, payloads, and professional documentation.
 
-🔗 **Repository:** https://github.com/ibelalansari/cybersecurity-portfolio
+🔗 Repository
 
-### 🛡️ Ethical Hacking
-
-Hands-on offensive security documentation covering reconnaissance, authentication, web application security, penetration testing methodologies, and security tools.
- 
-🔗 **Repository:** https://github.com/ibelalansari/ethical-hacking
-
-### 🔵 SOC Analyst
-
-Security Operations Center portfolio covering networking, Windows security, log analysis, SIEM, Microsoft Sentinel, KQL, detection engineering, and incident response.
-
-🔗 **Repository:** https://github.com/ibelalansari/soc-analyst
+https://github.com/ibelalansari/web-application-security
 
 ---
 
-## Current Professional Development
+## 🛡️ Ethical Hacking
 
-Current areas of focus include:
+Hands-on offensive security documentation covering reconnaissance, authentication, penetration testing methodologies, security tools, and practical laboratories.
 
-- Ethical Hacking
+🔗 Repository
+
+https://github.com/ibelalansari/ethical-hacking
+
+---
+
+## 🔵 SOC Analyst
+
+Security Operations Center portfolio covering Windows security, networking, SIEM fundamentals, Microsoft Sentinel, detection engineering, and incident response.
+
+🔗 Repository
+
+https://github.com/ibelalansari/soc-analyst
+
+---
+
+## ⭐ Cybersecurity Portfolio
+
+Central repository connecting all cybersecurity projects, repositories, technical documentation, and learning resources.
+
+🔗 Repository
+
+https://github.com/ibelalansari/cybersecurity-portfolio
+
+---
+
+# Current Focus
+
 - Web Application Security
+- PortSwigger Web Security Academy
+- OWASP Top 10
+- Ethical Hacking
 - Security Operations (SOC)
 - Detection Engineering
-- Threat Hunting
+- Active Directory Security
 - Microsoft Sentinel
-- Kusto Query Language (KQL)
-- Digital Forensics
-- Malware Analysis
 - Cloud Security
 - Python for Cybersecurity
 
 ---
 
-## Professional Philosophy
+# Professional Philosophy
 
-> Learn deeply. Practice consistently. Document clearly. Secure responsibly.
+> **Learn Deeply. Practice Consistently. Document Professionally. Secure Responsibly.**
 
 ---
 
-## Connect
+# Connect
 
-🔗 LinkedIn:
+💼 **LinkedIn**
+
 https://linkedin.com/in/ibelalansari
 
-📧 Email:
+🐙 **GitHub**
+
+https://github.com/ibelalansari
+
+📧 **Email**
+
 belalansari.bd@gmail.com
+
+📍 **Location**
+
+Dhaka, Bangladesh
+
+---
+
+# Disclaimer
+
+All content published in this GitHub profile is based exclusively on authorized laboratory environments, personal research, and educational exercises.
+
+No unauthorized testing has been performed against third-party systems.
