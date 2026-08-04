@@ -135,20 +135,6 @@ https://github.com/ibelalansari/cybersecurity-portfolio
 
 ---
 
-# Connect
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/ibelalansari
-
-🐙 **GitHub**
-
-https://github.com/ibelalansari
-
-📧 **Email**
-
-belalansari.bd@gmail.com
-
 📍 **Location**
 
 Dhaka, Bangladesh
