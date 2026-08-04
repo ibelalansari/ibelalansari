@@ -135,6 +135,4 @@ Dhaka, Bangladesh
 
 # Disclaimer
 
-All content published in this GitHub profile is based exclusively on authorized laboratory environments, personal research, and educational exercises.
-
-No unauthorized testing has been performed against third-party systems.
+All content published in this GitHub profile is based exclusively on authorized laboratory environments, personal research, and educational exercises. No unauthorized testing has been performed against third-party systems.
