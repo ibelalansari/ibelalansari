@@ -78,9 +78,7 @@ My primary goal is to build practical, real-world cybersecurity expertise throug
 
 Hands-on Web Application Security portfolio featuring PortSwigger Web Security Academy labs, OWASP Top 10 testing methodology, vulnerability assessments, payloads, and professional documentation.
 
-🔗 Repository
-
-https://github.com/ibelalansari/web-application-security
+🔗 Repository - https://github.com/ibelalansari/web-application-security
 
 ---
 
@@ -88,9 +86,7 @@ https://github.com/ibelalansari/web-application-security
 
 Hands-on offensive security documentation covering reconnaissance, authentication, penetration testing methodologies, security tools, and practical laboratories.
 
-🔗 Repository
-
-https://github.com/ibelalansari/ethical-hacking
+🔗 Repository - https://github.com/ibelalansari/ethical-hacking
 
 ---
 
@@ -98,9 +94,7 @@ https://github.com/ibelalansari/ethical-hacking
 
 Security Operations Center portfolio covering Windows security, networking, SIEM fundamentals, Microsoft Sentinel, detection engineering, and incident response.
 
-🔗 Repository
-
-https://github.com/ibelalansari/soc-analyst
+🔗 Repository - https://github.com/ibelalansari/soc-analyst
 
 ---
 
@@ -108,9 +102,7 @@ https://github.com/ibelalansari/soc-analyst
 
 Central repository connecting all cybersecurity projects, repositories, technical documentation, and learning resources.
 
-🔗 Repository
-
-https://github.com/ibelalansari/cybersecurity-portfolio
+🔗 Repository - https://github.com/ibelalansari/cybersecurity-portfolio
 
 ---
 
